@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DeporBot</title>
+</head>
+<body>
+    <h1>Bienvenido a DeporBot</h1>
+    <p>Predicción del partido: Gana el equipo local.</p>
+
+    <h3>Realiza tu apuesta:</h3>
+    <ul>
+        <li><a href="https://www.bet365.com" target="_blank">Bet365</a></li>
+        <li><a href="https://www.1xbet.com" target="_blank">1xBet</a></li>
+        <li><a href="https://www.betano.com" target="_blank">Betano</a></li>
+        <li><a href="https://www.betfair.com" target="_blank">Betfair</a></li>
+        <li><a href="https://www.inkabet.pe" target="_blank">Inkabet</a></li>
+        <li><a href="https://www.codere.com" target="_blank">Codere</a></li>
+    </ul>
+</body>
+</html>
